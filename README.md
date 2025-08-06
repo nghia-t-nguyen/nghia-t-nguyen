@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nghia-t-nguyen
-- 👀 I’m interested in data science and software engineering.
-- 🌱 I’m currently learning computer science, math, and datascience.
-- 💞️ I’m looking to collaborate on any strange computer science projects.
-- 📫 How to reach me: You can email me nguyenn2001@gmail.com.
+- 👀 I’m interested in human-computer interaction and software engineering.
+- 🌱 I’m currently learning frontend technologies.
+- 💞️ I’m looking to collaborate on any unique computer science projects.
+- 📫 How to reach me: You can email me 321nguyenn2001@gmail.com.
